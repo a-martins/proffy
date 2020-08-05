@@ -6,6 +6,7 @@ This project was created during the event Next Level Week organized by RocketSea
 ## Techs
 - ReactJs
 - TypeScript
+- CSS3
 
 ## Run
 To install all dependencies execute: 
