@@ -20,4 +20,4 @@ yarn start
 
 then, access the app on:
 
-[localhost:3000](localhost:3000)
+[http://localhost:3000](http://localhost:3000)
